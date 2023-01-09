@@ -1,1 +1,12 @@
-/*# sourceMappingURL=index.css.map */
+body {
+  width: 100%;
+  font-size: large;
+  font-weight: 500;
+}
+body #form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+  width: 40%;
+}/*# sourceMappingURL=index.css.map */

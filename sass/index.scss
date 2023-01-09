@@ -1,0 +1,13 @@
+@import './reset';
+body {
+    width: 100%;
+    font-size: large;
+    font-weight: 500;
+    #form {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 80vh;
+        width: 40%;
+    }
+}
